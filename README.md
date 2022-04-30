@@ -15,7 +15,7 @@ const aboutMe = {
       breed: 'Australian Shepherd'
       },
     sports: ['hockey', 'surfing', 'golfing'],
-    reading: 'sci fi and self-improvement'
+    reading: 'sci fi and self-improvement',
     crafts: 'wood working'
   }
 }
