@@ -13,7 +13,7 @@ const aboutMe = {
     pet: {
       name: 'Randall',
       breed: 'Australian Shepherd'
-      },
+    },
     sports: ['hockey', 'surfing', 'golfing'],
     reading: 'sci fi and self-improvement',
     crafts: 'wood working'
