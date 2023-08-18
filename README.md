@@ -24,9 +24,9 @@ const aboutMe = {
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveBehm)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Current project: working on stretch features for my Goalie Finder web application.
-- 💻 Stack: React, JavaScript, Node.js, Express, CSS3, HTML5
-- 🔧 Tools: PostgreSQL, Babel, Webpack, React Bootstrap, Bootstrap 5, npm, Git, Github, Slack
+- 🔭 Current project: working on full-stack polling web application.
+- 💻 Stack: React, JavaScript, Node.js, Express, Python, SQL, TypeScript, CSS3, HTML5
+- 🔧 Tools: PostgreSQL, ChakraUI, Postman, Git, Docker, Bootstrap 5, Github, Slack
 - 🔓 I am always trying to unlock new skills and keep learning
 
 
