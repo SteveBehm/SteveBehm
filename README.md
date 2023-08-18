@@ -1,6 +1,6 @@
 # Hello World ⚡
 
-![Software Engineer Banner](https://user-images.githubusercontent.com/96929704/166113132-22c05327-4579-4244-958d-64cfad9fd12f.png)
+![Software Engineer Banner]([https://user-images.githubusercontent.com/96929704/166113132-22c05327-4579-4244-958d-64cfad9fd12f.png](https://user-images.githubusercontent.com/96929704/261716443-58c8dd4c-25c3-4b48-9ac7-1ba6560eacc4.png))
 
 I am passionate about creating digital solutions to ***help others***
 
